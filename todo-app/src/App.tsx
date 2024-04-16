@@ -7,8 +7,6 @@ function App() {
   return (
     <>
       <Layout>
-        <h1>Todo App</h1>
-        <p>Under construction...</p>
         <TodoHeader />
       </Layout>
     </>
